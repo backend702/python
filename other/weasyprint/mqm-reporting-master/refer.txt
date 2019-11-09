@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/20927182/simulate-a4-page-in-html/20939176
+https://weasyprint.readthedocs.io/en/stable/install.html#windows
